@@ -1,0 +1,13 @@
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\CalcNoBtn\bin\Debug\CalcNoBtn.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\CalcNoBtn\bin\Debug\CalcNoBtn.pdb
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\CalcNoBtn\bin\Debug\CalcNoBtn.CalcNoBtn.apk
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\CalcNoBtn\bin\Debug\CalcNoBtn.CalcNoBtn-Signed.apk
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\CalcNoBtn\Debug\CalcNoBtn.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\CalcNoBtn\Debug\CalcNoBtn.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\CalcNoBtn\Debug\CalcNoBtn.pdb
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\CalcNoBtn\Debug\android\bin\CalcNoBtn.CalcNoBtn.apk
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\CalcNoBtn\Debug\res\layout\main.xml
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\CalcNoBtn\Debug\res\values\strings.xml
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\CalcNoBtn\Debug\R.cs.flag
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\CalcNoBtn\Debug\uploadflags.txt
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\CalcNoBtn\bin\Debug\CalcNoBtn.dll.mdb

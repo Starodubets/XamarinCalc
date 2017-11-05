@@ -1,0 +1,14 @@
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestApp1\bin\Debug\UnitTestApp1.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestApp1\bin\Debug\UnitTestApp1.pdb
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestApp1\bin\Debug\UnitTestApp1.UnitTestApp1.apk
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestApp1\bin\Debug\UnitTestApp1.UnitTestApp1-Signed.apk
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\UnitTestApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\UnitTestApp1.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\UnitTestApp1.pdb
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\android\bin\UnitTestApp1.UnitTestApp1.apk
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\res\drawable\icon.png
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\res\values\strings.xml
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\R.cs.flag
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\uploadflags.txt
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestApp1\bin\Debug\UnitTestApp1.dll.mdb
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestApp1\Debug\android\assets\UnitTestApp1.dll.mdb

@@ -1,0 +1,4 @@
+CalcNoBtn.MainActivity, CalcNoBtn;md5916c2689dae1f187774d7cb08096ce93.MainActivity
+CalcNoBtn.MainActivity, CalcNoBtn, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5916c2689dae1f187774d7cb08096ce93.MainActivity
+CalcNoBtn.MainActivity;md5916c2689dae1f187774d7cb08096ce93.MainActivity
+calcnobtn.MainActivity;md5916c2689dae1f187774d7cb08096ce93.MainActivity

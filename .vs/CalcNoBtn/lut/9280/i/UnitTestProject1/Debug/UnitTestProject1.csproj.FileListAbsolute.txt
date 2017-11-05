@@ -1,0 +1,12 @@
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.dll
+C:\Users\Ren\Desktop\CalcNoBtn\.vs\CalcNoBtn\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.pdb
